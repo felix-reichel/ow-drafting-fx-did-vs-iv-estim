@@ -5,7 +5,7 @@ Using covid-19 **non-drafting** response policies (\~2020-2022) for estimating t
 
 1. Does the according to literature 20\% drafting benefit $\implies$ 20\% better mean outcomes in drafting races? 
 
-[did_pic.pdf](https://github.com/user-attachments/files/17090156/did_pic.pdf)
+<img src="intro.png" width="800" height="400">
 
 2. Effect heterogenity: Which groups (e.g. percentiles) benefit the most from drafting? Marginal effects, ...
 
@@ -59,7 +59,7 @@ Where:
 - $\gamma_5 ...$ Interaction term representing the effect of the Post-COVID period (drafting reinstated) on treated athletes.
 - $\mu_i$: Athlete FE; time-invariant characteristics specific to each athlete.
 - $\nu_j$: Event FE
-- $\delta_t$: Seasonal/Month FE; for general seasonality; Mesozyklus and Misozyklus, Build/Maintain/Peak Phase in training.
+- $\delta_t$: Seasonal/Month FE; for general seasonality; Macrocycles, Mesocycles and Microcycles.
 - $\theta_t \text{Trend}$: A time trend to control for general performance improvements over time (such as technology or training advancements).
 - $\varepsilon_{it}$: Error term.
 
