@@ -5,7 +5,7 @@ Using covid-19 **non-drafting** response policies (\~2020-2022) for estimating t
 
 1. Does the according to literature 20\% drafting benefit $\implies$ 20\% better mean outcomes in drafting races? 
 
-[did_pic.pdf](https://github.com/user-attachments/files/17090156/did_pic.pdf)
+<img src="intro.png" width="800" height="400">
 
 2. Effect heterogenity: Which groups (e.g. percentiles) benefit the most from drafting? Marginal effects, ...
 
